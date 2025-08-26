@@ -5,7 +5,7 @@ Passionate About Tech, Curious About the Future
 
 📫 How to reach me 
 ____________________________________
-daryllmasapa21@gmail.com
+daryllmasapa21@gmail.com\n
 linkedin.com/in/daryll-masapa-5799b5325
 
 Connect with me:
