@@ -1,16 +1,11 @@
 ## Hi 👋, I'm Daryll 👋
 
 Passionate About Tech, Curious About the Future
-👨‍💻 All of my projects are available at 
 
+👨‍💻 All of my projects are available at 
+* [My Website](https://www.example.com)
 ____________________________________
 ### 📫 How to reach me 
-
-* [My Website](https://www.example.com)
-* [LinkedIn](linkedin.com/in/masapa)
-
-
-Connect with me:
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -27,7 +22,7 @@ Connect with me:
     <img src="WEBSITE_ICON_URL" alt="Website" width="40" height="40">
   </a>
 </p>
-
+__________________________________________________________
 Languages and Tools:
 
 <h3 align="center">Languages and Tools</h3>
