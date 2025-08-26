@@ -3,9 +3,8 @@
 Passionate About Tech, Curious About the Future
 👨‍💻 All of my projects are available at 
 
-📫 How to reach me 
 ____________________________________
-### Connect with me:
+### 📫 How to reach me 
 
 * [My Website](https://www.example.com)
 * [LinkedIn](linkedin.com/in/daryll-masapa-5799b5325)
