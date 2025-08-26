@@ -27,10 +27,6 @@ Connect with me:
 </p>
 
 Languages and Tools:
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,c,cpp,cs,mysql,canva,docker" alt="My Tech Stack">
-</p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
