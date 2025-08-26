@@ -27,8 +27,8 @@ Connect with me:
 </p>
 
 Languages and Tools:
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=HTML,CSS,JavaScript,React,Nodejs,Git,GitHub,Visualstudiocode" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,c,cpp,cs,mysql,canva,docker" alt="My Tech Stack">
 </p>
 
