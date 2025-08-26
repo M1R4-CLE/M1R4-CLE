@@ -7,18 +7,12 @@ Passionate About Tech, Curious About the Future
 ____________________________________
 ### 📫 How to reach me 
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="linkedin.com/in/daryll-masapa-5799b5325" target="_blank" rel="noopener noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" alt="LinkedIn" width="40" height="40">
+  <a href="YOUR_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="50" height="50">
   </a>
-  <p align="center">
-  <a href="mailto:daryllmasapa21@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:YOUR_EMAIL@EXAMPLE.COM" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Email" width="50" height="50">
-  </a>
-</p>
-  <a href="YOUR_WEBSITE_URL" target="_blank" rel="noopener noreferrer">
-    <img src="WEBSITE_ICON_URL" alt="Website" width="40" height="40">
   </a>
 </p>
 ________________________________________________________________________________________________________________________________________________________
