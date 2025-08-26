@@ -7,7 +7,7 @@ ____________________________________
 ### 📫 How to reach me 
 
 * [My Website](https://www.example.com)
-* [LinkedIn](linkedin.com/in/mira-masapa)
+* [LinkedIn](linkedin.com/in/masapa)
 
 
 Connect with me:
