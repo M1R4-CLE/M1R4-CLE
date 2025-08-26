@@ -12,8 +12,8 @@ Connect with me:
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">
-    <img src="LINKEDIN_ICON_URL" alt="LinkedIn" width="50" height="50">
+  <a href="linkedin.com/in/daryll-masapa-5799b5325" target="_blank" rel="noopener noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" alt="LinkedIn" width="50" height="50">
   </a>
   <a href="YOUR_TWITTER_URL" target="_blank" rel="noopener noreferrer">
     <img src="TWITTER_ICON_URL" alt="Twitter" width="50" height="50">
