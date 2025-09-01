@@ -15,7 +15,7 @@ ____________________________________
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Email" width="50" height="50">
   </a>
 </p>
-_____________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45">
